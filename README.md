@@ -1,0 +1,1 @@
+This code demonstrates a common error in Swift: forgetting to include argument labels when calling functions. The function `calculateArea` requires both the `width` and `height` arguments with their respective labels. The first call is correct, while the second fails due to the missing `height:` label. The solution shows how to correct this error by including the missing label.
